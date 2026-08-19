@@ -1,0 +1,25 @@
+print("\ntype conversion->")
+print()
+print("set to tuple and list")
+s={1,2,3,4,5}
+print(s)
+tpl=tuple(s)
+print(tpl)
+lst=list(s)
+print(lst)
+
+print("tuple to set and list")
+t=(6,7,8,9,10)
+print(t)
+st=set(t)
+print(st)
+l=list(t)
+print(l)
+
+print("list to set and tuple")
+l1=["shiv","guna","mega"]
+print(l1)
+s1=set(l1)
+print(s1)
+t1=tuple(l1)
+print(t1)

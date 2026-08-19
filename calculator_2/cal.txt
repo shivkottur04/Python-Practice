@@ -1,0 +1,6 @@
+operand 1->10  operand 2->20  operation->+
+result:10+20=30
+operand 1->10  operand 2->10  operation->-
+result:10-10=0
+operand 1->20  operand 2->30  operation->/
+result:20/30=0.6666666666666666

@@ -1,0 +1,10 @@
+
+				START DATE AND TIME:Sun Mar  1 10:15:43 2026
+addition of:10.0 and 20.0 is 30.0
+subtraction of:10.0 and 20.0 is -10.0
+				 END DATE AND TIME:Sun Mar  1 10:16:00 2026
+
+				START DATE AND TIME:Sun Mar  1 10:24:38 2026
+addition of:10.0 and 20.0 is 30.0
+subtraction of:20.0 and 10.0 is 10.0
+				 END DATE AND TIME:Sun Mar  1 10:24:55 2026
